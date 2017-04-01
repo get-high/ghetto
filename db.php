@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
+
+=======
 //// 
+>>>>>>> master
 	class db_sql
 	{
 		var $database = "";
