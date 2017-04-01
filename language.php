@@ -1,5 +1,8 @@
 <?php
 
+//////
+
+
 $lang_album['rus'] = "Альбом";
 $lang_video['rus'] = "Видео";
 $lang_music['rus'] = "Музыка";
