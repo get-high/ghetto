@@ -4,7 +4,7 @@ error_reporting(0);
 // Подключаем файлы
 require("config.php");
 require("language.php");
-require("db.php");
+require("db.php"); ///
 
 // Текущее время
 define('TIMENOW', time());
